@@ -12,4 +12,8 @@ A high-performance C++ CLI application designed to simulate a 50-station metro n
    ```bash
    mkdir build && cd build
    cmake ..
-   make
+   cmake --build .
+   ```
+2. Run in CLI:
+   ```bash
+   .\metro_planner.exe
